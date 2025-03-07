@@ -1,0 +1,20 @@
+{
+    "idf.flashType": "UART",
+    "idf.portWin": "COM18",
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "freertos.h": "c",
+        "gpio.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "unistd.h": "c",
+        "math.h": "c",
+        "mcpwm.h": "c",
+        "esp_attr.h": "c",
+        "pca9685.h": "c",
+        "robot_state.h": "c",
+        "sdkconfig.h": "c",
+        "uart.h": "c"
+    }
+}
